@@ -20,7 +20,7 @@ public class MainActivity extends ActionBarActivity {
 			getSupportFragmentManager().beginTransaction()
 					.add(R.id.container, new PlaceholderFragment()).commit();
 		}
-		/// zatial nic
+		/// zatial tu nic nie je
 	}
 
 	@Override
